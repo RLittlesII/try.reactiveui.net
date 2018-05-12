@@ -1,8 +1,8 @@
 # Try ReactiveUI
 
-	<a href="https://reactiveui.net/slack">
-		<img src="https://img.shields.io/badge/chat-slack-blue.svg">
-	</a>
+<a href="https://reactiveui.net/slack">
+  <img src="https://img.shields.io/badge/chat-slack-blue.svg">
+</a>
   
 A playground that enables people to experiment and learn about reactive programming in the browser. ## Resources
 
