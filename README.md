@@ -6,7 +6,11 @@
   
 A playground that enables people to experiment and learn about reactive programming in the browser. ## Resources
 
-## Build & Run
+## Develop
+
+`Xamarin.Interactive.Client.Web.csproj`
+
+## Build
 
 ```bash
 ./build.cmd
