@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27705.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Interactive.Client.Web", "Xamarin.Interactive.Client.Web.csproj", "{9CFB5276-667C-4183-8445-8FB8B20E46B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Interactive", "..\..\Agents\Xamarin.Interactive\Xamarin.Interactive.csproj", "{51CE63C7-5BC8-4942-BA0A-DAA36DE3F363}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Interactive.CodeAnalysis.Roslyn", "..\..\CodeAnalysis\Xamarin.Interactive.CodeAnalysis.Roslyn\Xamarin.Interactive.CodeAnalysis.Roslyn.csproj", "{C60FE1E4-79CC-426D-B5B5-3A6BC9C74CD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Interactive.CodeAnalysis", "..\..\CodeAnalysis\Xamarin.Interactive.CodeAnalysis\Xamarin.Interactive.CodeAnalysis.csproj", "{30351A53-6B8C-4190-BE09-B55C463B0550}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Interactive.Client", "..\Xamarin.Interactive.Client\Xamarin.Interactive.Client.csproj", "{FFED5903-6D46-444C-891D-50730D2A0D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFB5276-667C-4183-8445-8FB8B20E46B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFB5276-667C-4183-8445-8FB8B20E46B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFB5276-667C-4183-8445-8FB8B20E46B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFB5276-667C-4183-8445-8FB8B20E46B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CE63C7-5BC8-4942-BA0A-DAA36DE3F363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CE63C7-5BC8-4942-BA0A-DAA36DE3F363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CE63C7-5BC8-4942-BA0A-DAA36DE3F363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CE63C7-5BC8-4942-BA0A-DAA36DE3F363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60FE1E4-79CC-426D-B5B5-3A6BC9C74CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60FE1E4-79CC-426D-B5B5-3A6BC9C74CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60FE1E4-79CC-426D-B5B5-3A6BC9C74CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60FE1E4-79CC-426D-B5B5-3A6BC9C74CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30351A53-6B8C-4190-BE09-B55C463B0550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30351A53-6B8C-4190-BE09-B55C463B0550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30351A53-6B8C-4190-BE09-B55C463B0550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30351A53-6B8C-4190-BE09-B55C463B0550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFED5903-6D46-444C-891D-50730D2A0D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFED5903-6D46-444C-891D-50730D2A0D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFED5903-6D46-444C-891D-50730D2A0D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFED5903-6D46-444C-891D-50730D2A0D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1EEF931-6167-40AE-AB7D-2BDB152EF0B6}
+	EndGlobalSection
+EndGlobal
